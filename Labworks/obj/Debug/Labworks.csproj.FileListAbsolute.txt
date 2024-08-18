@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\Labworks\Labworks\bin\Debug\Labworks.exe.config
+C:\Users\ACER\source\repos\Labworks\Labworks\bin\Debug\Labworks.exe
+C:\Users\ACER\source\repos\Labworks\Labworks\bin\Debug\Labworks.pdb
+C:\Users\ACER\source\repos\Labworks\Labworks\obj\Debug\Labworks.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Labworks\Labworks\obj\Debug\Labworks.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Labworks\Labworks\obj\Debug\Labworks.exe
+C:\Users\ACER\source\repos\Labworks\Labworks\obj\Debug\Labworks.pdb
